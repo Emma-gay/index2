@@ -50,8 +50,3 @@
      
 
  <p> siguiente pagina <a href="https://emma-gay.github.io/index3/"> siguiente.</p>
-</font>
-
-
-</body>
-</html>
