@@ -48,6 +48,7 @@
 <p>Botones de radio ("input type="radio"")</p>
 <p>Casillas de verificación ("input type="checkbox"")</p>
 <p>Botón de envío ("button type="submit"")</p>
+     
 <br></br>
  <p> siguiente pagina <a href="https://emma-gay.github.io/num2/"> enlace</a> a otro sitio web.</p>
   <p> anterior pagina <a href="https://emma-gay.github.io/num2/"> enlace</a> a otro sitio web.</p>
