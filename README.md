@@ -49,8 +49,8 @@
 <p>Botón de envío ("button type="submit"")</p>
      
 
- <p> siguiente pagina <a href="https://emma-gay.github.io/num2/"> enlace</a> a otro sitio web.</p>
-  <p> anterior pagina <a href="https://emma-gay.github.io/num2/"> enlace</a> a otro sitio web.</p>
+ <p> siguiente pagina <a href="https://emma-gay.github.io/num2/"> siguiente.</p>
+  <p> anterior pagina <a href="https://emma-gay.github.io/index2/"> enlace</a> anterior.</p>
 </font>
 
 
